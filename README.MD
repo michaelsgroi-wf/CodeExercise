@@ -72,8 +72,9 @@ anything you want as long as you keep and implement the following method stubs:
 * split_string
 
 You must not alter the architectural design of the methods in graph_stuff.py 
-because this is to show that you can debug code written by others. If you do 
-not appreciate how this particular code is written, you are welcome to leave 
+because this is to show that you can debug code written by others. You can 
+add logic to these methods though (in fact you will need to). If you do not 
+appreciate how this particular code is written, you are welcome to leave 
 comments for us to look at.
 
 Note that minimal testing of the execute function has been provided to allow 
