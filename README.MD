@@ -58,6 +58,7 @@ calculating the parent hash.
 If a parent node is supposed to be omitted because it is a disconnected node 
 from the graph, simply omit the dash and character for that node when 
 calculating its hash.
+Hashes should contain lower case characters.
 * Print out hash.
 
 # Notes
